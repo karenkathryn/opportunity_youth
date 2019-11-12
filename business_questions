@@ -1,0 +1,12 @@
+Q: Why is our data result different than Seattle times?
+
+Results:
+--5647 at risk teens 
+= sample_size/population ratio * at risk teens
+=66,673/2.189 million * 172
+where 
+sample_size is  total.sql
+172 is final_filter.sql
+population is a google result
+
+will have data collection bias due to home vs homeless
