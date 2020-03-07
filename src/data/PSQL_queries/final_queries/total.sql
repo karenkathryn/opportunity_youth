@@ -1,0 +1,5 @@
+CREATE TABLE tot_people_in_KC AS (
+    SELECT SUM(PWGTP)
+    FROM pums_2017
+    WHERE (puma BETWEEN '11601' AND '11616')
+);
